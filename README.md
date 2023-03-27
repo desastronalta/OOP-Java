@@ -28,7 +28,7 @@ Ex:
 		numero : 6
 		posição : meia 
 		nacionalidade : espanhola
-		tamanho : pouco
+		tamanho : 1,65 //numero ficticio
 		cabelo: faltando
 \\
 
@@ -37,7 +37,7 @@ Ex:
 		numero : 3
 		posição : atacante 
 		nacionalidade : espanhola
-		tamanho : medio
+		tamanho : 1,75 // tambem ficticio
 		cabelo: topete
 
 ambos são objetos que se classificam na Classe Jogador que compartilham dos mesmos atributos porém com valores diferentes
