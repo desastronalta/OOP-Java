@@ -42,12 +42,12 @@ ambos são objetos que se classificam na Classe Jogador que compartilham dos mes
 
 -propriedades
     
-    as propridades de uma classe sao os dados que serão  utilizados nesta função podendo ser estatica (que nao se altera) ou versatil (pode ocorrer alterações)
+   as propridades de uma classe sao os dados que serão  utilizados nesta função podendo ser estatica (que nao se altera) ou versatil (pode ocorrer alterações)
 um exemplo de estatic é a data de nascimento de uma pessoa ja de versatil seria seus dados bancarios
 
 -metodos 
 
-     os metodos sao como esses objetos serao utilizados pela clase seria mais de que forma eles seriam moldados similia ao funcionamento de uma função que realiza determinada ação com seu codigo dentro da programação estrutural.
+   os metodos sao como esses objetos serao utilizados pela clase seria mais de que forma eles seriam moldados similia ao funcionamento de uma função que realiza determinada ação com seu codigo dentro da programação estrutural.
 
 -criar um objeto com operador
 	As classes originam intâncias sob requisição, em um processo denominado instanciação.
@@ -69,37 +69,6 @@ SET E GET
 sao utilizados para a criação de metodos para fixar e pegar informações de uma classe 
 qual se encontra como private de forma de evitar o acesso a qualquer momento alem de aumentar
 a robuztes do código.
-
----Estrutura de dados	
-
-Em java os dados podem ser ficam armazenados de várias formas a forma mais simples 
-e por meio de váriaveis quais são obrigatórias a identicação de que tipo de atributo ela tem
-ex: int double String etc. guardando apenas 1 informação.
-
-VETOR
-quando vc necessita armazenar mais de um dado em uma variavel podemos utilizar o vetor 
-para armazenar mais de um valor de MESMO atributo. sendo identificado cada um dos valores por meio de 
-um número a partir de 0 até o valor definido previamente por vc.
-
-VETOR COM TEXTOS
-método de busca linear///
-é uma busca que vai do primeiro termo até o ultimo termo em busca de um dado até encontra-lo
-portanto por ser linear é um método muito lento por ir de termo em termo até achar
-tendo um custo computacional alto.
-
-LISTA LIGADA
-
-é uma lista de elementos onde cada elemento esta ligado ao seu proximo elemento sendo mais vantajoso
-para retirar e colocar elementos  porem ela tem suas desvantagens sendo  principal que para busca
-ela é mais lenta que o vetor porem no quesito armazenar é melhor pois é mais facil de redmensionar
-diferente do vetor
-
-
-generics 
-
-em java conseguimos criar uma variante que tem como dado generico
-ou seja """conseguimos passar o parametro para classe""" nao sendo necessariamente assim
-
 
 UML : linguagem de Modelagem Unificada
 CLASSE : define como será o objeto
@@ -143,7 +112,7 @@ TEM-UM (é uma associação)
 
 É (herança ou nao UML, generalização)
 
-multiplicidade : quantos objetos d eum lado se associam com o objeto do outro lado.
+multiplicidade : quantos objetos de um lado se associam com o objeto do outro lado.
 se o aluno tem um numero definido de turmas (no caso 1) entao utilizamos apenas um numero
 
 se o aluno PODE estar em mais de uma turma entao utillizamos dois numeros no caso minimo..maximo para definir o scopo 
