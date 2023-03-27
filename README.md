@@ -171,6 +171,8 @@ dentro de orientação a objteos existe o conceito de encapsulamento que seria c
 
 TODA classe possui um método construtor e esse método construtor inicialmente esta vazio e implicito para passar valores e ações para esse metodo criamos um metodo como public e o nome da classe depois acressenta os parenteses.
 
-Ex: public Class(//aqui estarao os parametros utilizados pela classe){
+Ex: 
+	
+	public Class(//aqui estarao os parametros utilizados pela classe){
 	// aqui estarão os codigos referentes ao metodo construdor.
-}
+	}
