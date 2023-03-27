@@ -22,6 +22,7 @@ classes
 -sao agrupamentos de objetos(intancias da classe ou seja sao sejaros pela classe) onde quanto identificamos esse agrupamento identificamos a sua classe e essa classe possui seus atributos(caracteristiscas). 
 Ex:	
 	Classe Jogador
+			
 		atributos_Ex1
 		nome : Iniesta
 		numero : 6
@@ -29,7 +30,7 @@ Ex:
 		nacionalidade : espanhola
 		tamanho : pouco
 		cabelo: faltando
-
+\\
 
 		atributos_Ex2
 		nome : pique
