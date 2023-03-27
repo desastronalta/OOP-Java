@@ -1,13 +1,16 @@
 # OOP-Java
 Studies of Object Orientetion Program in Java : )
+
+
 POO (programação orientada a objetos)
 apos indentificar o objeto a ser tratados vemos suas caracteristicas
-por exemplo um jogador de fultebol ele possui
-	numero 
-	posição
-	nacionalidade
-	nome
-	tamanho
+
+	por exemplo um jogador de fultebol ele possui
+		int numero 
+		String posição
+		String nacionalidade
+		String nome
+		Float tamanho
 essas caracteristicas se denominam atributos do objeto
 onde o objeto é determinado por objetos semelhantes que estão dentro dessa classe que se distingue por meio de seus atributos onde todos os objetos possuem os mesmos atributos porem com valores diferentes. 
 	
@@ -77,21 +80,22 @@ o processo de criação de objetos se chama instanciação.
  
 CLASSE Escola
 -objetos 
+
 	Aluno
-		nome
-		data de nascimento
-		RA 
+		String nome
+		Date data de nascimento
+		String RA 
 	Professor
-		nome
-		Matricula
-		Salário
-		formação
+		String nome
+		String Matricula
+		int Salário
+		Stringformação
 	Diciplina
-		nome
-		Carga horaria 	
+		String nome
+		int cargaHoraria 	
 	Turma
-		sigla
-		ano
+		String sigla
+		int ano
 		
 possuimos diferentes objetos logo cada um tem sua Classe ou seja sua instancia definimos a classe com a primeira letra SEMPRE maiuscula e no singular e toda classe possui atributos pois os objetos possuem caracteristicas(atributos), e esses atributos sempre começam com letras minusculas sendo separados por letras maiusculas e retirar preposições nao se usa acentos ou ç entre outros  ex:  nome do aluno = nomeAluno;
  
